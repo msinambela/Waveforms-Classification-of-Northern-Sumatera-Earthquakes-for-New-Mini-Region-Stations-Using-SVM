@@ -1,0 +1,2 @@
+# Waveforms-Classification-of-Northern-Sumatera-Earthquakes-for-New-Mini-Region-Stations-Using-SVM
+We develop and evaluate the new mini region station in Northern Sumatera for discrimination and feature extract seismic events form shallow and intermediate based on waveforms recorded. Machine learning approaches are employed to classification the waveforms and seismic features of the recoded signal in the time-frequency domain.
